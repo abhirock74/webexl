@@ -9681,3 +9681,24 @@ section {
     display: none;
   }
 }
+
+
+/* abhishek css start for modify the content */
+@media only screen and (max-width: 500px){
+
+  .col-md{
+    width: 100%;
+  }
+  .useful-link{
+    width: 100vw;
+  }
+  .contact-f1{
+    width: 100vw;
+  }
+  .img-responsive{
+    width: 100%;
+  }
+  .widget widget-foote{
+    width: 30vw;
+  }
+}
