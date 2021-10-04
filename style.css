@@ -1801,10 +1801,12 @@ a.btn-1 {
    Title
    ========================================================================== */
 .title-inline {
+
   float: left;
   display: inline-block;
   margin-bottom: 0;
   line-height: 1;
+  margin-left: 14vw;
 }
 .title-center {
   text-align: center;
@@ -5748,9 +5750,10 @@ footer h3 {
 .useful-link {
   display: block;
   list-style: none;
-  width: 100%;
+  width: 80%;
   clear: both;
   margin-top: 40px;
+  margin-left: 14vw;
 }
 .useful-link li {
   display: block;
@@ -5782,6 +5785,7 @@ footer h3 {
   clear: both;
   margin-top: 12px;
   float: left;
+  margin-left: 14vw;
 }
 .footer-v1 .contact-f1 a {
   color: #999;
