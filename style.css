@@ -9707,7 +9707,7 @@ section {
     width: 30vw;
   }
 }
-/* removing top bar */
+/* removing top bar 
 @media only screen and (max-width: 570px){
 .topbar-1-inner{
   display: none;
@@ -9715,4 +9715,4 @@ section {
 .bg-theme {
   display: none;
 }
-}
+/* } */
