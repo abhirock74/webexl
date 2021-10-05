@@ -1075,7 +1075,7 @@ body.royal_loader {
 }
 #royal_preloader.complete {
   opacity: 0;
-  transition: none;
+  transition: none; 
 }
 #royal_preloader .background {
   width: 100%;
