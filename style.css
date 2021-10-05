@@ -9709,3 +9709,31 @@ section {
     width: 30vw;
   }
 }
+
+@media only screen and (max-width: 570px){
+.topbar-1-inner{
+  display: none;
+}
+.bg-theme {
+  display: none;
+}
+.useful-link{
+  display: none;
+}
+.title-inline{
+  display: none;
+}
+.img-responsive {
+  width: 45%;
+  margin-top: -10%;
+}
+.footer-v1 .contact-f1 {
+  display: block;
+  width: 90vw;
+  clear: both;
+  margin-top: -20px;
+  float: left;
+  margin-left: 0vw;
+  margin-bottom: -10px;
+}
+}
