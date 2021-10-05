@@ -9751,19 +9751,12 @@ section {
   margin-top: 18vw;
   display: block;
 }
-.project-item-img-container{
-  height: 35vw;
-  margin-top: 10vw;
-}
 .rajnish{
   margin-left: 27%;
 }
-.abhi{
-  font-size: 4vw;
-  margin-left: 2vw;
-}
-.aniket{
-  font-size: 20%
+.overlay-1 {
+  height: 40vw;
+  margin-top: -10vw;
 }
 }
 
@@ -9771,7 +9764,8 @@ section {
 
 /* dextip bt abhi */
 @media only screen and (max-width: 2400px) and (min-width: 570px){
-  .project-item-img-container{
+  }
+  .rajnish{
     margin-left: 27%;
   }
 
