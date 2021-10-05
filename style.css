@@ -9752,7 +9752,18 @@ section {
   display: block;
 }
 .project-item-img-container{
+  height: 35vw;
+  margin-top: 10vw;
+}
+.rajnish{
   margin-left: 27%;
+}
+.abhi{
+  font-size: 4vw;
+  margin-left: 2vw;
+}
+.aniket{
+  font-size: 20%
 }
 }
 
