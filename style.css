@@ -9738,9 +9738,30 @@ section {
 }
 .project-item {
   width: -webkit-calc(100% - 30px);
-  width: calc(100% - 70px);
+  width: calc(100% - 1);
   border: 1px solid #e5e5e5;
   margin: 15px;
   background: #fff;
+  height: 69vw;
 }
+.project-item-img-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin-top: 18vw;
+  display: block;
+}
+.project-item-img-container{
+  margin-left: 27%;
+}
+}
+
+
+
+/* dextip bt abhi */
+@media only screen and (max-width: 2400px) and (min-width: 570px){
+  .project-item-img-container{
+    margin-left: 27%;
+  }
+
 }
