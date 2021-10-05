@@ -9736,4 +9736,11 @@ section {
   margin-left: 0vw;
   margin-bottom: -10px;
 }
+.project-item {
+  width: -webkit-calc(100% - 30px);
+  width: calc(100% - 70px);
+  border: 1px solid #e5e5e5;
+  margin: 15px;
+  background: #fff;
+}
 }
