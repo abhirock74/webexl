@@ -9715,4 +9715,10 @@ section {
 .bg-theme {
   display: none;
 }
+.useful-link{
+  display: none;
+}
+.title-inline{
+  display: none;
+}
 }
