@@ -1808,7 +1808,6 @@ a.btn-1 {
   display: inline-block;
   margin-bottom: 0;
   line-height: 1;
-  margin-left: 14vw;
 }
 .title-center {
   text-align: center;
@@ -9758,15 +9757,16 @@ section {
   height: 40vw;
   margin-top: -10vw;
 }
+.title-inline{
+  display: block;
+}
 }
 
 
 
 /* dextip bt abhi */
 @media only screen and (max-width: 2400px) and (min-width: 570px){
-  }
   .rajnish{
-    margin-left: 27%;
+    margin-left: 20%;
   }
-
 }
