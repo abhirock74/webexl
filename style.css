@@ -9763,6 +9763,11 @@ section {
 .useless{
   display: none;
 }
+.sonu{
+  width: 100%;
+  height: 40vw;
+  margin-top: -8vw;
+}
 
 }
 
@@ -9778,5 +9783,9 @@ section {
   }
   .monkey{
     margin-top: 2.8vw;
+  }
+  .sonu{
+    width: 100%;
+    height: 15vw;
   }
 }
