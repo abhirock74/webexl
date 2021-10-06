@@ -9730,7 +9730,7 @@ section {
   display: block;
   width: 90vw;
   clear: both;
-  margin-top: -20px;
+  margin-top: 0px;
   float: left;
   margin-left: 0vw;
   margin-bottom: -10px;
@@ -9760,6 +9760,10 @@ section {
 .title-inline{
   display: block;
 }
+.useless{
+  display: none;
+}
+
 }
 
 
@@ -9768,5 +9772,8 @@ section {
 @media only screen and (max-width: 2400px) and (min-width: 570px){
   .rajnish{
     margin-left: 20%;
+  }
+  .ram{
+    margin-left: 14vw;
   }
 }
