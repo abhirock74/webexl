@@ -9788,4 +9788,7 @@ section {
     width: 100%;
     height: 15vw;
   }
+  .nothing{
+    display: none;
+  }
 }
