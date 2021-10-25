@@ -93,28 +93,6 @@ section {
   padding: 70px 0;
   overflow-x: hidden;
 }
-.row {
-  margin-right: -15px;
-  margin-left: -15px;
-  margin-top: -3.5vw;
-}
-.footer-v1 .text-about {
-  margin-top: 14px;
-  width: 27vw;
-}
-
-.iconbox-set-1-warp, .iconbox-set-2-warp {
-  margin-top: 43px;
-}
-.mynn{
-  height: 3vw;
-}
-footer {
-  padding: 70px 0;
-  background: #222;
-  color: #f3f3f3;
-  height: 23vw;
-}
 /* ==========================================================================
    Bootstrap Custom
    ========================================================================== */
@@ -9790,23 +9768,6 @@ section {
   height: 45vw;
   margin-top: -16vw;
 } 
-.footer-v1 .text-about {
-  margin-top: 25px;
-  width: 100%;
-}
-
-.iconbox-set-1-warp, .iconbox-set-2-warp {
-  margin-top: 43px;
-}
-.mynn{
-  height: 3vw;
-}
-footer {
-  padding: 70px 0;
-  background: #222;
-  color: #f3f3f3;
-  height: 150vw;
-}
 
 
 }
