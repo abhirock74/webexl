@@ -9792,4 +9792,8 @@ section {
   .uchai{
     height: 23vw;
   }
+  .footdesk{
+    margin-top: -3vw;
+    margin-bottom: -3vw;
+  }
 }
