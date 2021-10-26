@@ -99,7 +99,19 @@ section {
 @media (min-width: 1200px) {
   .container {
     width: 1200px;
-  }
+    margin-top: -5vw;
+}
+.spaceex{
+  margin-top: 4vw;
+  margin-bottom: -1vw;
+}
+.spaceexx{
+  margin-top: -2vw;
+}
+section {
+  width: 100%;
+  margin-bottom: -2vw;
+}
 }
 p {
   margin-bottom: 0;
@@ -9796,4 +9808,5 @@ section {
     margin-top: -3vw;
     margin-bottom: -3vw;
   }
+  
 }
