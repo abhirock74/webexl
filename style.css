@@ -99,7 +99,9 @@ section {
 @media (min-width: 1200px) {
   .container {
     width: 1200px;
-    margin-top: -5vw;
+}
+.mohan{
+  margin-top: -4.5vw;
 }
 .spaceex{
   margin-top: 4vw;
@@ -9780,7 +9782,12 @@ section {
   height: 45vw;
   margin-top: -16vw;
 } 
-
+.mohan{
+  margin-top: -18vw;
+}
+.sohan{
+  margin-top: -10vw;
+}
 
 }
 
