@@ -9790,12 +9790,14 @@ section {
 }
 .team-item img {
   width: 100%;
+  margin-top: 0vw;
 
 }
 .overlay-1 {
   height: 106vw;
   margin-top: 4vw;
 }
+
 
 }
 
